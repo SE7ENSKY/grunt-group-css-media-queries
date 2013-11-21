@@ -2,6 +2,8 @@
 
 > Grunt task for grouping CSS media queries. Useful for postprocessing preprocessed CSS files.
 
+Uses [Se7enSky/group-css-media-queries](https://github.com/Se7enSky/group-css-media-queries) node module for processing.
+
 ## Getting Started
 This plugin requires Grunt `~0.4.1`
 

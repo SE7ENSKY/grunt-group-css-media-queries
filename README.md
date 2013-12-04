@@ -58,6 +58,7 @@ grunt.initConfig({
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
 
 ## Release History
+ - 1.0.1 - renamed project to grunt-group-css-media-queries (grunt-contrib-* is reserved)
  - 1.0.0 – initial working release
 
 ## Authors

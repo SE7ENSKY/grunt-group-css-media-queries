@@ -1,6 +1,6 @@
 /*
- * grunt-contrib-group-css-media-queries
- * https://github.com/Se7enSky/grunt-contrib-group-css-media-queries
+ * grunt-group-css-media-queries
+ * https://github.com/Se7enSky/grunt-group-css-media-queries
  *
  * Copyright (c) 2013 Ivan Kravchenko
  * Licensed under the MIT license.

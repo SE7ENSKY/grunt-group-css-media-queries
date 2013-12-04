@@ -1,8 +1,8 @@
 {
-  "name": "grunt-contrib-group-css-media-queries",
+  "name": "grunt-group-css-media-queries",
   "description": "Grunt task for grouping CSS media queries. Useful for postprocessing preprocessed CSS files.",
-  "version": "1.0.0",
-  "homepage": "https://github.com/Se7enSky/grunt-contrib-group-css-media-queries",
+  "version": "1.0.1",
+  "homepage": "https://github.com/Se7enSky/grunt-group-css-media-queries",
   "author": {
     "name": "Ivan Kravchenko",
     "email": "i@se7ensky.com",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@://github.com/Se7enSky/grunt-contrib-group-css-media-queries.git"
+    "url": "git@://github.com/Se7enSky/grunt-group-css-media-queries.git"
   },
   "bugs": {
-    "url": "https://github.com/Se7enSky/grunt-contrib-group-css-media-queries/issues"
+    "url": "https://github.com/Se7enSky/grunt-group-css-media-queries/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/Se7enSky/grunt-contrib-group-css-media-queries/blob/master/LICENSE-MIT"
+      "url": "https://github.com/Se7enSky/grunt-group-css-media-queries/blob/master/LICENSE-MIT"
     }
   ],
   "main": "Gruntfile.js",

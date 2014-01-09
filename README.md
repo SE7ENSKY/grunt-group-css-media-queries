@@ -43,13 +43,15 @@ Plugin have no options.
 
 ### Usage Examples
 
+Here you can find simple working full project example: [Se7enSky/grunt-group-css-media-queries-sample](https://github.com/Se7enSky/grunt-group-css-media-queries-sample).
+
 ```js
 grunt.initConfig({
   group_css_media_queries: {
-    options: {},
-    files: {
-      'dest/output.css': ['src/input.css'],
-    },
+    sample: {
+      src: 'sample.input.css',
+      dest: 'sample.output.css'
+    }
   },
 })
 ```
